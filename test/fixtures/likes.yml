@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  review: one
+  activity: one
+  status_like: false
+
+two:
+  user: two
+  review: two
+  activity: two
+  status_like: false
